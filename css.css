@@ -1,0 +1,17 @@
+*{
+    background-color: pink
+}
+
+p{
+    font-size:20px;
+    color: rgb(72, 4, 34);
+    line-height: 1.5;
+}
+button{
+    background-color: lightblue;
+    color: black;
+    border: 5px solid darkblue;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
